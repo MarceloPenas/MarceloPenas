@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @marcelopenas
+- 👋 Hi, I’m Marcelo Peñas
 
 <!---
 marcelopenas/marcelopenas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
